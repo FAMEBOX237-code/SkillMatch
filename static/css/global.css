@@ -1,4 +1,4 @@
-/* ========== GLOBAL RESET & BASE STYLES ========== */
+
 
 * {
     margin: 0;
@@ -11,7 +11,6 @@ body {
     color: #333;
 }
 
-/* General container */
 .container {
     /* max-width: 1200px; */
     margin: 0 auto;
