@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* ===== ABOUT US HERO – ABSOLUTELY STUNNING ===== */
 .about-hero {
     position: relative;
@@ -9,7 +9,7 @@
 }
 
 .about-hero .container {
-    display: grid;
+    display: grid; 
     grid-template-columns: 1fr 1fr;
     gap: 60px;
     align-items: center;
@@ -713,7 +713,4 @@
     .hero-stats { justify-content: center; }
     .hero-image img { max-width: 400px; margin: 0 auto; display: block; }
 }
-=======
-/* My first commit */
-/* Pauline Committed today */
->>>>>>> be5f46f0ad8daaebd75ce968192b0ff0c2c59717
+
